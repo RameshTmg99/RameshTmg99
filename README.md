@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Ramesh Tamang 
-- 👀 I’m interested in PHP LARAVEL
 
 
 <!---
